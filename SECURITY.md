@@ -18,6 +18,10 @@ Version | Supported
 
 ## Reporting a Vulnerability
 
+If you have used automated tools to discover a bug then please verify the issue manually as we receive lots of false-positive reports.
+
 Please do not report security vulnerabilities on GitHub. Instead, get the attention of a developer in our development IRC channel at ircs://irc.teranova.net/inspircd.dev and PM them the details. If this doesn't get a response please email Sadie at [sadie@sadiepowell.dev](mailto:sadie@sadiepowell.dev?subject=%5BInspIRCd%20Security%5D%20) with "InspIRCd Security" in the subject line.
 
 We will triage your issue as soon as possible and try to release a fixed version within a week of receiving your report.
+
+We appreciate all reports but the InspIRCd team does not have the resources to pay bug bounties.
